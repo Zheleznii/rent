@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ProkatTransporta\\ProkatTransporta.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProkatTransporta_Server\\ProkatTransporta_Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

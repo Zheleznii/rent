@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ProkatTransporta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76917BAE-93F2-4FEA-8FE0-D26326367E5B}|ProkatTransporta_Tests\\ProkatTransporta_Tests.csproj|c:\\users\\user\\desktop\\prokattransporta\\prokattransporta_tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76917BAE-93F2-4FEA-8FE0-D26326367E5B}|ProkatTransporta_Tests\\ProkatTransporta_Tests.csproj|solutionrelative:prokattransporta_tests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76917BAE-93F2-4FEA-8FE0-D26326367E5B}|ProkatTransporta_Tests\\ProkatTransporta_Tests.csproj|c:\\users\\user\\desktop\\prokattransporta\\prokattransporta_tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76917BAE-93F2-4FEA-8FE0-D26326367E5B}|ProkatTransporta_Tests\\ProkatTransporta_Tests.csproj|solutionrelative:prokattransporta_tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta_server\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|solutionrelative:prokattransporta_server\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta_server\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|solutionrelative:prokattransporta_server\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta_server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|solutionrelative:prokattransporta_server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta_server\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8681A6-F456-4F54-B6ED-02E87A867BAB}|ProkatTransporta_Server\\ProkatTransporta_Server.csproj|solutionrelative:prokattransporta_server\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|c:\\users\\user\\desktop\\prokattransporta\\prokattransporta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|solutionrelative:prokattransporta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|solutionrelative:prokattransporta\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|C:\\Users\\user\\Desktop\\ProkatTransporta\\prokattransporta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{677C2575-1F88-46BC-A26E-37B4C75776A7}|ProkatTransporta\\ProkatTransporta.csproj|solutionrelative:prokattransporta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Tests\\Tests.cs",
+              "RelativeToolTip": "ProkatTransporta_Tests\\Tests.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAjwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:56:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Tests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Tests\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Tests\\UnitTest.cs",
+              "RelativeToolTip": "ProkatTransporta_Tests\\UnitTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:41:35.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\Program.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\Program.cs",
+              "RelativeToolTip": "ProkatTransporta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T14:15:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\Commands.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Server\\Commands.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\Commands.cs",
+              "RelativeToolTip": "ProkatTransporta_Server\\Commands.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAowP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:25:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Server\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\ClientHandler.cs",
+              "RelativeToolTip": "ProkatTransporta_Server\\ClientHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:14:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Server\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\AppDbContext.cs",
+              "RelativeToolTip": "ProkatTransporta_Server\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:15:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\ServerConnection.cs",
+              "RelativeToolTip": "ProkatTransporta\\ServerConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:13:41.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\Form1.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProkatTransporta\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:09:48.966Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\Models.cs",
+              "RelativeDocumentMoniker": "ProkatTransporta_Server\\Models.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ProkatTransporta\\ProkatTransporta_Server\\Models.cs",
+              "RelativeToolTip": "ProkatTransporta_Server\\Models.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T13:17:27.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\bin\Debug\ProkatTransporta.exe.config
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\bin\Debug\ProkatTransporta.exe
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\bin\Debug\ProkatTransporta.pdb
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.Properties.Resources.resources
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.exe
+C:\Users\user\Desktop\ProkatTransporta\ProkatTransporta\obj\Debug\ProkatTransporta.pdb
